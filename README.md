@@ -148,8 +148,3 @@ npx localtunnel --port 6000
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contributors
-
-- Pitamber Paudel
-- Aditya Raj
-- Ayushman Jaiswal
