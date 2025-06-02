@@ -1,0 +1,32 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Local tunnel or ngrok URLs (if saved)
+*.loca.lt
+*.ngrok.io
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional npm cache directory
+.npm/
+
+# Build output
+dist/
+build/
+
+# Python cache
+__pycache__/
